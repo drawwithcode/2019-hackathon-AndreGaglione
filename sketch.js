@@ -87,6 +87,6 @@ function createSphere() {
   fill('white');
   textFont(font);
   textSize(50);
-  text('drag to move the earth', 200, 50);
+  text('TG1 TG1 TG1 TG1', 200, -70, 10);
   pop();
 }
